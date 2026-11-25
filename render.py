@@ -222,7 +222,7 @@ def main():
             "Korea scrambles jets at Russian planes",
             "Nikkei jumps 3.9% to 58,644",
             "PNG begins Bougainville vote",
-            "First train Ayodhya-Janankpur runs",
+            "First train Ayodhya-Janakpur runs",
             "Hanoi blast kills 6, injures 10",
             "Hasina plans Dec 16 return",
             "Pakistan astronaut to fly Shenzhou-24",
